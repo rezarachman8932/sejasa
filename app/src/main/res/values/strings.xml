@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sejasa</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="required_for_this_app">Required for this app</string>
+    <string name="enable_now">Enable Now</string>
+    <string name="location_permission_not_granted">Location Permission not granted</string>
+    <string name="current_location">Current Location:</string>
+    <string name="update_button">Update Location</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="open_map">Open Map</string>
+</resources>
